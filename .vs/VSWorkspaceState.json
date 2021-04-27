@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\wp-content",
+    "\\wp-content\\plugins",
     "\\wp-content\\themes"
   ],
   "PreviewInSolutionExplorer": false
