@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\wp-content",
-    "\\wp-content\\plugins",
     "\\wp-content\\themes",
-    "\\wp-content\\themes\\izo"
+    "\\wp-content\\themes\\izo",
+    "\\wp-content\\themes\\izo\\assets",
+    "\\wp-content\\themes\\izo\\assets\\images"
   ],
-  "SelectedNode": "\\wp-content\\themes\\izo\\header.php",
+  "SelectedNode": "\\wp-content\\themes\\izo\\assets\\images\\Logo.jpg",
   "PreviewInSolutionExplorer": false
 }
