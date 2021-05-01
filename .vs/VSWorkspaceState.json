@@ -3,7 +3,9 @@
     "",
     "\\wp-content",
     "\\wp-content\\plugins",
-    "\\wp-content\\themes"
+    "\\wp-content\\themes",
+    "\\wp-content\\themes\\izo"
   ],
+  "SelectedNode": "\\wp-content\\themes\\izo\\header.php",
   "PreviewInSolutionExplorer": false
 }
